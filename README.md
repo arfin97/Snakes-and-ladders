@@ -26,3 +26,25 @@ OPEN SOURCE:
 It has flexibility, freedom and security because the source is yours! 
 
 GET THE GAME
+
+
+## Challanges
+Major:
+1. Implementing our console game & algorithm to in GUI.
+2. Working with labels.
+3. Fixing bugs.
+4. When one disc is playing others were not showed. We fixed it.
+5. When we moved one disc others were moved also. We fixed it.
+6. Who is Winner and Who is looser.
+7. Using thread. (our next implementation will be it is)
+8. From Single Player to Multiplayer shifting. 
+
+## Future Plan
+
+Using Thread making this game more perfect.
+Make it upgradeable
+Using socket server programming making it multiplayer usable from anywhere.
+Background music
+Running from facebook
+Chatroom
+In future implement this game with applet/javafx instead of java swing.
