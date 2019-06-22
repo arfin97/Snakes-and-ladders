@@ -1,4 +1,4 @@
-# SnakeAndLadder
+# Snakes and Ladders - The game
 
 Snakes and Ladders
 It is an ancient Indian board game regarded today as a worldwide classic. It is played between two or more players on a game board having numbered, griddle squares. A number of "ladders" and "snakes" are pictured on the board, each connecting two specific board squares. The object of the game is to navigate one's game piece, according to die rolls, from the start (bottom square) to the finish (top square), helped or hindered by ladders and snakes respectively. 
